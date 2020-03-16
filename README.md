@@ -1,4 +1,5 @@
 # Price-data-of-part-of-US-Stocks-in-2014-2019
+
 价格数据通过python库yfinance取自雅虎财经，股票筛选池(eastmoney.csv，共12561支)为东方财富的美股列表(http://quote.eastmoney.com/usstocklist.html)
 
 The price data are downloaded through a python library named 'yfinance' from Yahoo Finance.
@@ -55,3 +56,8 @@ Low 当日最低价
 
 Close	当日收盘价
 
+-------------------------------------
+
+数据没有上传成功，可以发邮件到jiaoyiru@hit.edu.cn询问。
+
+Data files fail to be uploaded, but still can be asked from jiaoyiru@hit.edu.cn. 
